@@ -1,15 +1,5 @@
 ### Hello! Bianca here 👋
 
-<!--
-**correiasxb/correiasxb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-📚 Estudante do SESI 
+-💻 Cursando Desenvolvimento de Sistemas no SENAI
 
-Here are some ideas to get you started:
-
-- 🔭 Estou cursando o 2°E.M
-- 👯 1/3 Desenvolvimento de Sistemas
--🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
